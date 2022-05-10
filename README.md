@@ -1,5 +1,5 @@
 - Developer of Find The Way Out game
-- 👋 Hi, I’m @ifrzky
+- 👋 Hi, I’m Miftah
 - 🌱 I’m currently learning Android Development, Software Development, Machine Learning also Game Development
 
 Informatics Engineering Student
