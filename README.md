@@ -1,4 +1,4 @@
-- Developer of Find The Way Out game
+Developer of Find The Way Out game
 - 👋 Hi, I’m Miftah
 - 🌱 I’m currently learning Android Development, Software Development, Machine Learning also Game Development
 
