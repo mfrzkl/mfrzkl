@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android Development, Software Development, Machine Learning also Game Development
 
 Informatics Engineering Student
+19 years old
 
 <!---
 ifrzky/ifrzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
