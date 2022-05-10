@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android Development, Software Development, Machine Learning also Game Development
 
 Informatics Engineering Student
+</br>
 19 years old
 
 <!---
