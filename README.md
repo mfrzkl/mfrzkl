@@ -5,6 +5,8 @@
 Informatics Engineering Student
 </br>
 19 years old
+</br>
+165 cm
 
 <!---
 ifrzky/ifrzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
