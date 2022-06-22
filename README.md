@@ -1,6 +1,6 @@
 Developer of Find The Way Out game
 - 👋 Hi, I’m Miftah
-- 🌱 I’m currently learning React App Web, Software Development, Machine Learning also Game Development
+- 🌱 I’m currently learning React App Web, Software Development, and Machine Learning
 
 Informatics Engineering Student
 </br>
