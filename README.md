@@ -4,7 +4,7 @@
 
 ### About Me 👨🏻
 
-- 👨🏻‍💼 My name is `Taufik Hidayat`
+- 👨🏻‍💼 My name is `Miftah Rizky Aulia`
 
 ### Stats 📋
 
