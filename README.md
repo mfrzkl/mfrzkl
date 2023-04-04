@@ -17,7 +17,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
-  <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
 </span>
 
