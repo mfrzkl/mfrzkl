@@ -22,7 +22,7 @@
 <span>
   <img src="https://www.vectorlogo.zone/logos/gnu_c/gnu_c-icon.svg" height="30" title="C" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" title="C++" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />  
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />&nbsp; 
 <span>
 
 | GitHub Stats | Most Used Languages |
