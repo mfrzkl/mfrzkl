@@ -7,7 +7,6 @@
 <a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 
 ### Tech
-
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
@@ -19,7 +18,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="30" title="Unity" style="background-color:white">
 </span>
 
-### 
+### Mind Frameworks
+<span>
+  <img src="https://www.vectorlogo.zone/logos/gnu_c/gnu_c-icon.svg" height="30" title="C" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" title="C++" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />  
+<span>
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
