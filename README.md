@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" title="C" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" title="C++" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />&nbsp; 
-<\span>
+</span>
 
 ###
 
