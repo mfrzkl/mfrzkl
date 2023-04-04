@@ -1,5 +1,5 @@
-<h2 align=center>Miftah Rizky Aulia </h2>
-<h3 align=center>Computer Science Student</h3>
+<h1 align=center>Miftah Rizky Aulia </h1>
+<h2 align=center>Computer Science Student</h2>
 <p align="center"><a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
