@@ -1,11 +1,10 @@
-<h3 align=center>Miftah Rizky Aulia </h3>
-<h3 align=center>Computer Science Student </h3>
-
+<h2 align=center>Miftah Rizky Aulia </h2>
+<h3 align=center>Computer Science Student</h3>
+<p align="center"><a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ### About Me 👨🏻 -->
-
-<!-- - 👨🏻‍💼 My name is `Miftah Rizky Aulia` -->
+### Reach Me
+<a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 
 ### Tech
 
