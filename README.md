@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
-  <img src="https://material-ui.com/static/logo_raw.svg" height="30" title="Material UI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" title="Material UI" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
