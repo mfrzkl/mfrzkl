@@ -2,7 +2,7 @@
 <p align=center>Computer Science Student</p>
 <p align="center">
   <a href="https://github.com/ifrzky"><img src="https://img.shields.io/github/followers/ifrzky?label=followers&style=social"/></a>
-  <a href="https://github.com/ifrzky"><img src="https://img.shields.io/instagram/followers/ifrizky_?label=followers&style=social"/></a>
+  <a href="https://www.instagram.com/ifrizky_/"><img src="https://img.shields.io/badge/Instagram-Followers-blue?style=social&logo=instagram"/></a>
 </p>
 
 ###
