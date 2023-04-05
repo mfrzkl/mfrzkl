@@ -47,7 +47,7 @@
 ###
 <span>
 <!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> -->
-<!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
   <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ifrzky&langs_count=10&theme=dracula&layout=compact&hide=css,scss,less,html,hack,asp.net"/> -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ifrzky&langs_count=10&theme=tokyonight&layout=compact&hide=asp.net"/>
  </span>
