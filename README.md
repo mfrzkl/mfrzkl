@@ -21,6 +21,7 @@
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" title="Material UI" />
@@ -30,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" title="Express" />
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="30" title="Unity" style="background-color:white"> -->
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" title="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" height="30" title="Babel" />
 </span>
 
