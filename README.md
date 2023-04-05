@@ -4,15 +4,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
-- 🚀 Currently learning `React Application Development` with `PERN stack`
+- 🚀 Currently learning `React Application Development`
 
 ### Reach Me
 <a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 
 ### Favorite Stack
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" title="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" title="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" title="Express" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" title="Node.js" />
 </span>
@@ -26,7 +26,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" title="Material UI" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" title="Express" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="30" title="Unity" style="background-color:white">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" title="Kubernetes" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
