@@ -12,7 +12,7 @@
 ### Favorite Stack
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" title="Express" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" title="Express" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" title="Node.js" />
 </span>
