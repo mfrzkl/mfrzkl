@@ -5,8 +5,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ifrzky.ifrzky" />
 </p>
 
-###
-- 🚀 Currently learning `React Application Development` and `Microservices`
+🚀 Currently learning `React Application Development` and `Microservices`
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ### Reach Me
