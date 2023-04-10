@@ -43,6 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />&nbsp; 
 </span>
 
+###
 <span>
 <!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
