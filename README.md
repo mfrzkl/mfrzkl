@@ -10,8 +10,8 @@
 interested in ``React Application Development`` and ``Microservices``
 </p> -->
 
-<!-- ### Reach Me
-<a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp; -->
+<!-- ### Reach Me -->
+<a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 
 <!-- ### Favorite Stack
 <span>
