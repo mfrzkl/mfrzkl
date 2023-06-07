@@ -6,8 +6,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Interested in React Application Development and Microservices
-
+<p align+"center">
+▪️ interested in React Application Development and Microservices
+</p>
 
 <!-- ### Reach Me
 <a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp; -->
@@ -19,8 +20,8 @@ Interested in React Application Development and Microservices
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" title="Node.js" />
 </span> -->
-###
-### Favorite Stack: `MERN`
+<!-- ###
+### Favorite Stack: `MERN` -->
 <!-- ### Tech
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
