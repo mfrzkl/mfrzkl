@@ -4,11 +4,11 @@
   <a href="https://github.com/ifrzky"><img src="https://img.shields.io/github/followers/ifrzky?label=followers&style=social"/></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ifrzky.ifrzky" />
 </p>
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 interested in ``React Application Development`` and ``Microservices``
-</p>
+</p> -->
 
 <!-- ### Reach Me
 <a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp; -->
