@@ -11,9 +11,9 @@
 </p> -->
 
 <!-- ### Reach Me -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://instagram.com/ifrizky_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-</p>
+</p> -->
 <!-- ### Favorite Stack
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" title="MongoDB" />
