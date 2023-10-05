@@ -46,13 +46,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" title="C++" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" />&nbsp; 
 </span> -->
-
-<!-- ###
 <span>
-<!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> -->
-<!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ifrzky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ifrzky&langs_count=10&theme=dracula&layout=compact&hide=css,scss,less,html,hack,asp.net"/> -->
-<!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ifrzky&langs_count=10&theme=tokyonight&layout=compact&hide=asp.net"/> -->
-<!--  </span> -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ifrzky&langs_count=10&theme=tokyonight&layout=compact&hide=asp.net"/> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
