@@ -1,7 +1,7 @@
 ### 🌱 About Me
 
 - 🔭 I’m currently working on **Node.js Applications**
-- 🌱 Learning more about **Kubernetes, MongoDB, and Redis**
+- 🌱 Learning more about **Kubernetes and Redis**
 - 🎯 Goals: To become a proficient **DevOps Engineer**
 
 ---
