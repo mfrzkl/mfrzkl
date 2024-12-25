@@ -18,10 +18,10 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases" /> </p>
 
 🔍 Development Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker" alt="Dev Tools" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker,trello" alt="Dev Tools" /> </p>
 
 🚀 Orchestration Microservices
-<p align="left"> <img src="https://skillicons.dev/icons?i=kubernetes,docker" alt="Orchestration Tools" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Orchestration Tools" /> </p>
 
 ---
 
