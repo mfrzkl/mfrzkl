@@ -18,7 +18,8 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases" /> </p>
 
 🔍 Development Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker,trello" alt="Dev Tools" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker" alt="Dev Tools" /> </p>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" width="40" height="40" /> </p>
 
 🚀 Orchestration Microservices
 <p align="left"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Orchestration Tools" /> </p>
