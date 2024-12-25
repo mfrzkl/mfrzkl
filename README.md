@@ -8,9 +8,16 @@
 
 ### 🔧 Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,javascript,express,python,react,vite,tailwindcss,docker,postgresql,mongodb,redis,mysql,graphql,git,github,kubernetes" alt="Tech Stack" />
-</p>
+🖥️ Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwindcss,scss,css,html,vite" alt="Frontend Tools" /> </p>
+🛠️ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python" alt="Backend Tools" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases" /> </p>
+🔍 Development Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,docker" alt="Dev Tools" /> </p>
+🚀 Orchestration Microservices
+<p align="left"> <img src="https://skillicons.dev/icons?i=kubernetes,docker" alt="Orchestration Tools" /> </p>
 
 ---
 
