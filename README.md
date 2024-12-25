@@ -1,9 +1,3 @@
-<h1 align="center">Hi, I'm MFRZKL! 👋</h1>
-
-
-
----
-
 ### 🌱 About Me
 
 - 🔭 I’m currently working on **Node.js Applications**
