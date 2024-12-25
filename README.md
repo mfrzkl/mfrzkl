@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm MFRZKL! 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfrzkl&hide=java,html,css,scss,ASP.NET,makefile&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
