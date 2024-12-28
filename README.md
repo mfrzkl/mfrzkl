@@ -39,6 +39,6 @@
 
 ### 🤝 Let's Connect
 
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/mfrzkl)
-- 📧 [Email](mailto:your-email@example.com)
+- 🌐 [Portfolio](https://?.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ifrzky)
+- 📧 [Email](mailto:miftahrizkyaulia@gmail.com)
