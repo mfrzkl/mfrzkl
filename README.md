@@ -1,4 +1,4 @@
 Interested in Full-Stack Dev, DevOps 👋
 
-email : miftahrizkyaulia@gmail.com
-linkedin : linkedin/in/ifrzky
+email : miftahrizkyaulia@gmail.com</br>
+linkedin : https://linkedin/in/ifrzky
