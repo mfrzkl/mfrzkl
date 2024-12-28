@@ -1,1 +1,1 @@
-Interested in Full-Stack Dev, DevOps
+Interested in Full-Stack Dev, DevOps 👋
