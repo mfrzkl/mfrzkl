@@ -1,3 +1,3 @@
-Interested in Full-Stack Dev, DevOps 👋
+Interested in Software Engineering, DevOps 👋
 
 email : miftahrizkyaulia@gmail.com
